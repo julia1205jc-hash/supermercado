@@ -10,7 +10,7 @@ body {
   margin: 0;
   padding: 0;
   background: #f9f9f9;
-  color: #333;
+  color: #333
 }
 
 /* ===== Header / Menu ===== */
@@ -32,13 +32,13 @@ nav a {
   font-weight: bold;
 }
 
-nav a:houver {
+nav a:hover {
   text-decoration: underline;
 }
 
-/* ===== Banner ===== */
+/* ===== Banner =====*/
 .banner {
-  background: url('../img/banner.jpg') center/cover no-repeat;
+  background: url('../banner.jpg') center/cover no-repeat;
   color: white;
   text-align: center;
   padding: 100px 20px;
@@ -75,7 +75,7 @@ nav a:houver {
 }
 
 .destaques h2 {
-    margin-bottom: 20px;
+  margin-bottom: 20px
 }
 
 /* ===== Produtos (Grid e Cards) ===== */
@@ -116,7 +116,7 @@ nav a:houver {
   margin-bottom: 10px;
 }
 
-/* ===== Formulário de contato ===== */
+/* ===== Formulário de Contato ===== */
 form {
   max-width: 400px;
   margin: auto;
@@ -162,3 +162,5 @@ footer {
   padding: 10px;
   margin-top: 30px;
 }
+
+ 
